@@ -1,4 +1,4 @@
-![github_title](https://user-images.githubusercontent.com/64282221/162792508-e10eada6-6a7f-4adc-bf41-3226b6720758.png)
+<img width="1099" alt="github-title" src="https://github.com/BurcuOzden/Sox-PTF/assets/64282221/fc9c1a5d-7cc5-4561-8118-eb1de7565b0c">
 
 [![DOI:10.1101/2021.12.07.471700](http://img.shields.io/badge/DOI-10.1101/2021.12.07.471700-B31B1B.svg)](https://doi.org/10.1101/2021.12.07.471700)
 
